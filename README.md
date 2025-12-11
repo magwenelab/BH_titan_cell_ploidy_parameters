@@ -6,3 +6,6 @@ WeavePop_parameters: Files used for recreating the results of the WeavePop pipel
 
 simulated_reads: Script used to simulate long reads with recombination events from reference genomes.
 
+Genome assemblies used to create the concatenated reference genome for H99 x Bt63 progeny are as follows:
+* H99 - GCA_011801205.1
+* Bt63 - GCA_002234625.1
