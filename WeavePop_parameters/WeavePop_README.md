@@ -1,1 +1,2 @@
-
+Commmit hash of WeavePop version used:
+536a9497931350b1fce03abd01085804ec572943
